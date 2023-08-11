@@ -1,6 +1,6 @@
 ### Hi there, I'm Dhiren Kumavat 👋
 
-### I'm a Full-stack Software Developer!
+### I'm a Software Developer!
 
 Here are some ideas to get you started:
 
