@@ -19,6 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pythan](https://img.shields.io/badge/python-21759B?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-21759B?style=for-the-badge&logo=flask&logoColor=white)
 
 
 
