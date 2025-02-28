@@ -2,7 +2,6 @@
 
 
 
-
 ## Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,6 +10,7 @@
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E34F26?style=for-the-badge&logo=CodeIgniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ECMAScript](https://img.shields.io/badge/ECMAScript-21759B?style=for-the-badge&logo=ECMAScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
