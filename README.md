@@ -20,8 +20,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pythan](https://img.shields.io/badge/python-21759B?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-21759B?style=for-the-badge&logo=flask&logoColor=white)
-
-
+![Postman](https://img.shields.io/badge/Postman-e76a3d?style=for-the-badge&logo=Postman&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-2680f7?style=for-the-badge&logo=Bitbucket&logoColor=white)
 
 ### I'm a Software Developer!
 
