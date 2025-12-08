@@ -7,7 +7,7 @@ A passionate **Backend & Full-Stack Developer** 🎯 specializing in **Laravel, 
 ## 👨‍💻 What I Do
 
 - 🚀 Backend Development with Node.js, Laravel, CodeIgniter, PHP & Web Services  
-- ⚛️ Frontend Development with React.js  
+- ⚛️ Frontend Development with Html, Css ,React.js  
 - 🔧 Building Secure, Scalable, and High-Performance Web Applications  
 - 💡 Optimizing existing systems & architecting new solutions  
 - 🎯 Mentorship & Guidance on Web Development  
